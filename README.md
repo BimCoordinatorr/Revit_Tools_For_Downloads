@@ -20,47 +20,48 @@ https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/tag/v1.1
 
 ## 📚 Included Tools
 
-* Advanced Filter
-* Approve Clashes
-* Audit
-* AutoSave CC
-* BIM Coordinator Tool (BCT)
-* BIM PAT Gen QR & Barcode
-* BMT Revit Add-in Column to Grids Alignment
-* Clash Detection Matrix
-* Clash Manager
-* Convert 2D AutoCAD DWG Layers to 3D
-* Copy Parameter
-* Create Dimensions in 3D Views
-* Egan Project Startup
-* Element Renumbering
-* EveryBIM Toolkit
-* Export Import Excel Schedule
-* Family Parameter Pro
-* Get GUID
-* IntecBIMArch
-* KTools Create Elements from Excel
-* MechAhmedRadwan
-* ModPlus for Revit
-* NamingManager
-* Navisworks Coordination Issues Add-In
-* NEXORA Audit Model Tool
-* NEXORA BIM Bulk Rename
-* NEXORA Create Sheets from Excel
-* NonicaTab
-* Parameters Compliance Matrix
-* Payazed
-* Renam-Pro
-* Renamer
-* Room Finishing
-* Sentinel QC with MCP AI Assistant for Revit
-* SIGNAX Tools
-* Specification – bimproject.cloud for Revit
-* Tiny Tools
-* ToolBox
-* Transfer Family Parameters
-* View Template Walker
-* Worksets Management
+* Approve Clashes —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/Approve.clashes.zip)
+* AutoSave CC —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/AutoSave.CC.zip)
+* BIM Coordinator Tool (BCT) —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/BIM.Coordinator.Tool-.BCT.zip)
+* BIM PAT Gen QR & Barcode —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/BIM.PAT.Gen.QR.Barcode.zip)
+* BMT Revit Add-in Column to Grids Alignment —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/BMT.Revit.add-in.Column.to.grids.alignment.zip)
+* Advanced Filter —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/BIMOLOGYAdvancedFilter.zip)
+* Audit —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/BMT.INSTALLERS-20260528T153925Z-3-001.zip)
+* Clash Detection Matrix —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/Clash.Detection.Matrix.zip)
+* Clash Manager —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/Clash.Manager.zip)
+* Convert 2D AutoCAD DWG Layers to 3D —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/Convert.2D.AutoCAD.DWG.Layers.to.3D.zip)
+* Copy Parameter —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/Copy.Parameter.zip)
+* Create Dimensions in 3D Views —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/Create.Dimensions.in.3D.Views.zip)
+* Egan Project Startup —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/Egan.Project.Startup.zip)
+* Element Renumbering —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/ElementRenumbering.zip)
+* EveryBIM Toolkit —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/EveryBIM.Toolkit.zip)
+* Export Import Excel Schedule —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/Export.Import.Excel-schedule.zip)
+* Family Parameter Pro —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/Family.Parameter.Pro.zip)
+* Get GUID —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/Get.GUID.zip)
+* IntecBIMArch —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/IntecBIMArch.zip)
+* KTools Create Elements from Excel —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/KTools-create.elements.from.excel.zip)
+* MechAhmedRadwan —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/MechAhmedRadwan.zip)
+* ModPlus for Revit —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/ModPlus.for.Revit.zip)
+* NamingManager —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/NamingManager.zip)
+* Navisworks Coordination Issues Add-In —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/Navisworks.Coordination.Issues.Add-In.zip)
+* NEXORA Audit Model Tool —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/NEXORAAuditModelTool.zip)
+* NEXORA BIM Bulk Rename —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/NEXORABIMBulkRename.zip)
+* NEXORA Create Sheets from Excel —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/NEXORACreateSheetsfromExcel.zip)
+* NonicaTab —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/NonicaTab.zip)
+* Parameters Compliance Matrix —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/Parameters.Compliance.Matrix.zip)
+* Payazed —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/Payazed.zip)
+* Renam-Pro —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/Renam-Pro.zip)
+* Renamer —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/Renamer.zip)
+* Room Finishing —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/RoomFinishing.zip)
+* Sentinel QC with MCP AI Assistant for Revit —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/Sentinel.QC.with.MCP.AI.Assistant.for.Revit.zip)
+* SIGNAX Tools —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/SIGNAX.TOOLS.zip)
+* Specification – bimproject.cloud for Revit —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/Specification-.bimproject.cloud.for.Revit.zip)
+* Tiny Tools —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/Tiny.Tools.zip)
+* ToolBox —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/ToolBox.zip)
+* Transfer Family Parameters —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/Transfer.Family.Parameters.zip)
+* View Template Walker —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/VIEW.TEMPLATE.WALKER.zip)
+* Worksets Management —> For Download Click --> [LINK_HERE](https://github.com/BimCoordinatorr/Revit_Tools_For_Downloads/releases/download/v1.1/Worksets.Management.zip)
+
 
 ---
 
